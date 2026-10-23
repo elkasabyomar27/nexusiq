@@ -1,0 +1,10 @@
+
+# Large local datasets
+data/stats1.csv
+data/stats2.csv
+data/participants.csv
+data/teambans.csv
+data/teamstats.csv
+data/matches.csv
+__pycache__/
+*.pyc

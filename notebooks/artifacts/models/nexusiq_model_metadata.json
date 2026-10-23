@@ -1,0 +1,12 @@
+{
+  "model": "Logistic Regression",
+  "features": "champion + team spell counts",
+  "threshold": 0.5,
+  "target": "blue_win",
+  "dataset_period": "2016-2017",
+  "validation_average_precision": 0.56957,
+  "validation_roc_auc": 0.56103,
+  "validation_accuracy_at_0_5": 0.54363,
+  "validation_balanced_accuracy_at_0_5": 0.5436,
+  "note": "Historical baseline; not validated for current patches. Threshold selected provisionally using validation data."
+}
